@@ -1,0 +1,158 @@
+[
+    {
+      "Name": "Tomato Ketchup",
+      "Description": " Quantity - 1L",
+      "Price": 98,
+      "ImageUrl": "images/products/ketchup.jpg",
+      "ProductCategoryId": 1,
+      "AvailableQuantity": 15,
+      "Discount": 1.3,
+      "Specification": "This fresh Tomato Ketchup is made with 100% real, naturally ripened Tomatoes."
+    },
+    {
+      "Name": "Real Mixed fruit Juice",
+      "Description": "1L of Real Mixed Fruit is as rich and flavorful as any other concentrated juice.",
+      "Price": 150,
+      "ImageUrl": " images/products/mixjuice.jpg  ",
+      "ProductCategoryId": 3,
+      "AvailableQuantity": 15,
+      "Discount": 0,
+      "Specification": "Rich and flavorful as any other concentrated juice."
+    },
+    {
+      "Name": "Cornitos Peri Peri Nacho Chips",
+      "Description": "Cornitos Peri-Peri Nacho Crisps with spicy flavour has unique combination of African chilli and tangy lemon.",
+      "Price": 80,
+      "ImageUrl":" images/products/nachos.jpg ",
+      "ProductCategoryId": 1,
+      "AvailableQuantity": 10,
+      "Discount": 1,
+      "Specification": "Cornitos Peri Peri Nacho Chips, 150 g Pouch"
+    },
+    {
+      "Name": "Dark Fastasy Cookies ",
+      "Description": "Dark Fastasy Cookies, 200 g",
+      "Price": 105,
+      "ImageUrl": "  images/products/darkfantasy.jpg  ",
+      "ProductCategoryId": 4,
+      "AvailableQuantity": 15,
+      "Discount": 2,
+      "Specification": "The filling is made with high-quality cocoa powder that has a rich and intense chocolate flavor"
+    },
+    {
+      "Name": "Amul Kool Milk - Kesar Flavour, 180 ml Pet Bottle",
+      "Description": "Amul Kool Kesar is refreshing milk with taste of Saffron (Kesar).",
+      "Price": 25,
+      "ImageUrl": "images/products/amulkool.jpg",
+      "ProductCategoryId": 2,
+      "AvailableQuantity": 15,
+      "Discount": 0,
+      "Specification": "This pack of 180 ml is a delicious drink that refreshes you with goodness of milk."
+  
+      
+    },
+    {
+      "Name": "Oranges",
+      "Description": "Valencia Oranges (500 g - 650 g)",
+      "Price": 50,
+      "ImageUrl": "images/products/oranges.jpg",
+      "ProductCategoryId": 5,
+      "AvailableQuantity": 15,
+      "Discount": 2,
+      "Specification": "Made into jams, marmalades, and preserves with the addition of sugar."
+  
+    },
+  
+    {
+      "Name": "Apples - Turkey Apples",
+      "Description": " Rich source of polyphenol",
+      "Price": 40.12,
+      "ImageUrl": "images/products/apples.jpg",
+      "ProductCategoryId": 5,
+      "AvailableQuantity": 15,
+      "Discount": 4,
+      "Specification": "500 g of Apples "
+  
+    },
+    {
+      "Name": "Amul Processed Cheese Chiplets Cubes, 200 g (8 Cubes)",
+      "Description": " Amul processed cheese is one of the leading brands of processed cheese in India.",
+      "Price": 63.2,
+      "ImageUrl": "images/products/cheese.jpg",
+      "ProductCategoryId": 2,
+      "AvailableQuantity": 15,
+      "Discount": 5,
+      "Specification": "Amul Processed Cheese Chiplets Cubes, 200 g (8 Cubes)"
+  
+    },
+    {
+      "Name": "English Oven Brown Bread",
+      "Description": "English Oven's scrumptious brown bread is baked to perfection with the nutritious goodness of Roasted Cereal Flour.",
+      "Price": 50,
+      "ImageUrl": "images/products/brownbread.jpg",
+      "ProductCategoryId": 4,
+      "AvailableQuantity": 20,
+      "Discount": 0,
+      "Specification": "Brown Bread- 400 g"
+  
+    },
+    {
+      "Name": "Coco-Cola",
+      "Description": "Coca-Cola is the most popular and biggest-selling soft drink in history, as well as the best-known brand in the world.",
+      "ProductCategoryId": 3,
+      "AvailableQuantity": 15,
+      "ImageUrl": "images/products/cocacola.jpg",
+      "Price": 95,
+      "Discount": 5,
+      "Specification" : "Quantity - 1 l,Expiry - 3 Days after opening"
+    },
+    {
+      "Name": "Fanta Soft Drink",
+      "Description": "Orange Flavored Cold Drink with Added Orange Flavour with Delicious Orangey Flavor",
+      "ProductCategoryId": 3,
+      "AvailableQuantity": 25,
+      "ImageUrl": "images/products/fanta.jpg",
+      "Price": 50,
+      "Discount": 4,
+      "Specification" : "Fanta , 1L Pet"
+    },
+    {
+      "Name": "Lays- Potato Chips",
+      "Description": "Highest quality farm-grown potatoes, cooked to crunchy perfection and sprinkled with microlite salt.",
+      "ProductCategoryId": 4,
+      "AvailableQuantity": 30,
+      "ImageUrl": "images/products/lays.jpg",
+      "Price": 30,
+      "Discount": 2,
+      "Specification" : "Weight - 40 g,Expiry - 2 Days after opening"
+    },
+    {
+      "Name": "Aloo Bhujia",
+      "Description": "Bikaneri Aloo Bhujia Is Prepared From Potatoes And Special Spice, This Snack Has A Nice Highly Spiced Flavour. The Tastes Enormous With Any Food You Have. ",
+      "ProductCategoryId": 1,
+      "AvailableQuantity": 15,
+      "ImageUrl": "images/products/bhujia.jpg",
+      "Price": 55,
+      "Discount": 1,
+      "Specification" : "Weight - 200g ,Expiry - 3 Days after opening"
+    },
+    {
+      "Name": "Eggs",
+      "Description": "Eggs are one of the common food items in most of the households. From breakfast to dinner, eggs are indulged in various ways. Poached, boiled, fried; we all have our own favourite choices. ",
+      "ProductCategoryId": 2,
+      "AvailableQuantity": 15,
+      "ImageUrl": "images/products/eggs.jpg",
+      "Price": 229,
+      "Discount": 2,
+      "Specification" : "Quantity - 30 pcs,Expiry - 1 Days "
+    },{
+      "Name": "Amul - Fresh Toned Milk",
+      "Description": "Amul Taaza fresh toned milk is an excellent quality milk from Gujarat. It can be consumed directly from the pack. No need to boil, it has virtually zero bacteria. No need to refrigerate till open.",
+      "ProductCategoryId": 2,
+      "Quantity": 33,
+      "ImageUrl": "images/products/milk.jpg",
+      "Price": 32,
+      "Discount": 5,
+      "Specification" : "Weight - 1 Packet,Expiry - 2 Days"
+    }
+  ]

@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\amulcheese.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\amulcheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\amulkool.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\amulkool.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\apples.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\apples.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\bhujia.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\bhujia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\brownbread.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\brownbread.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\cheese.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cheese.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\cocacola.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cocacola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\darkfantasy.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\darkfantasy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\download.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\eggs.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\eggs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\fanta.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\hersheys.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hersheys.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\hideNseek.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\hideNseek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\lays.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\lays.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\lettuce.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\lettuce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\milk.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\milk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\mixjuice.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\mixjuice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\nachos.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nachos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\oranges.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\oranges.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\pringles.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\pringles.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\shivanjimasala.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\shivanjimasala.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aparnajoshi\\GroceryStore\\API\\wwwroot\\images\\products\\tomato.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\tomato.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
